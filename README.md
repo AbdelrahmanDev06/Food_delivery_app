@@ -1,6 +1,6 @@
 # Smash House POS
 
-A point-of-sale desktop app for a fast-food restaurant, built with **C# Windows Forms (.NET 8)** for the **CS312 – Modern Development Tools** course.
+A point-of-sale desktop app for a fast-food restaurant, built with **C# Windows Forms 
 
 The app covers the main screens a restaurant needs: login, taking new orders with add-ons, managing the menu, order history, sales reports with charts, and a kitchen display. This version is the GUI only; screens use sample data.
 
